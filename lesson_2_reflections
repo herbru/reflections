@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 cuando inicializas un repositorio git empieza a ver las acciones que se realizan y se puede hacer control de versiones y hacer commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+la staging area es diferente del repositorio y del working directory porque es el punto intermedio entre estos dos, nos permite hacer un checkout del repositorio y nos permite hacer un commit.
