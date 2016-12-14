@@ -3,3 +3,9 @@ cuando inicializas un repositorio git empieza a ver las acciones que se realizan
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 la staging area es diferente del repositorio y del working directory porque es el punto intermedio entre estos dos, nos permite hacer un checkout del repositorio y nos permite hacer un commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+la staging area me ayudaria a solo hacer commits cuando hay cambios logicos, y si tengo miedo de perder algo no hace falta hacer un commit, hay una etapa intermedia.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Las Branches son muy utiles para situaciones donde hay diferentes idiomas para un juego, o cuando se quiere probar una caracteristica nueva.
