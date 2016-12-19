@@ -14,4 +14,7 @@ How do the diagrams help you visualize the branch structure?
 Los diagramas me ayudan a visualizar la estructura del proyecto mostrandome como estan las ramas.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-El resultado de combinador dos ramas es que ya no hay 2 ramas
+El resultado de combinador dos ramas es que ya no hay 2 ramas.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Los pros de hacer merges automaticos es que no hay errores humanos ni malinterpretaciones
